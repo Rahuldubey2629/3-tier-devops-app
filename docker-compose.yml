@@ -1,0 +1,5 @@
+# Docker Compose Configuration
+# This file will orchestrate multi-container deployment
+# Will include: frontend, backend, and database services
+# Instructions will be added during DevOps implementation phase
+

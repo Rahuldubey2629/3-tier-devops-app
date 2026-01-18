@@ -1,0 +1,4 @@
+# Kubernetes Persistent Volume Claim for MongoDB
+# This file will define persistent storage for the database
+# Instructions will be added during DevOps implementation phase
+
